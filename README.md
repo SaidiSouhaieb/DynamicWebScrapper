@@ -1,4 +1,4 @@
-# Web Scraping Toolkit
+# Dynamic Web Scraping Toolkit
 
 **Introduction:**
 This versatile Python package allows users to effortlessly scrape data from a variety of websites, offering a seamless experience in extracting information regardless of the site's structure or design. This project serves as an invaluable resource for anyone seeking to enhance their understanding of web scraping.
